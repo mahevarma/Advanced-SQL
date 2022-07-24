@@ -1,4 +1,4 @@
-NULL SAFE Join
+--  ## NULL SAFE Join ##
 
 create table tableA(colA int);
 create table tableB(ColB int);
